@@ -1,3 +1,4 @@
+Simulator Screenshot - iPhone 16 Pro Max - 2024-10-31 at 13 59 36 Simulator Screenshot - iPhone 16 Pro Max - 2024-10-31 at 13 59 45Simulator Screenshot - iPhone 16 Pro Max - 2024-10-31 at 13 59 52
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
