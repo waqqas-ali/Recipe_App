@@ -1,3 +1,7 @@
+![Simulator Screenshot - iPhone 16 Pro Max - 2024-10-31 at 13 59 36](https://github.com/user-attachments/assets/104465da-bfae-4111-9a5d-4da2cef69fdc)
+![Simulator Screenshot - iPhone 16 Pro Max - 2024-10-31 at 13 59 45](https://github.com/user-attachments/assets/fa89ddcc-db42-4f4b-a7bb-aa705b72870d)
+![Simulator Screenshot - iPhone 16 Pro Max - 2024-10-31 at 13 59 52](https://github.com/user-attachments/assets/ffd98e25-fe4d-4261-918f-c9b90d6d6b84)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
