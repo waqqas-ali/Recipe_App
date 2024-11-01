@@ -1,3 +1,5 @@
+
+![Recipe Image](https://github.com/user-attachments/assets/9464e120-967e-4a04-9a14-e0286bc34896)
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
