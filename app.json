@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-recipe-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.waqqasali.Recipe_App"
     },
     "web": {
       "bundler": "metro",
@@ -31,6 +32,11 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "72b9e6ec-5ac8-4e01-989d-702a1796de6d"
+      }
     }
   }
 }
