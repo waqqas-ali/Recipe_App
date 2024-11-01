@@ -1,4 +1,3 @@
-![IMAGE](/Users/waqqasali/Github/Recipe_App/Recipe_App/Simulator Screenshot - iPhone 16 Pro Max - 2024-10-31 at 13.59.36.png)
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
